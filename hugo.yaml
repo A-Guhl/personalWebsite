@@ -1,3 +1,12 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Annika Guhl
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be anything
+    
+  socialIcons:
+   - name: "email"
+     url: "mailto:anguhl@ethz.ch"
