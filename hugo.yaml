@@ -4,8 +4,8 @@ title: Annika Guhl
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be anything
+    Title: Annika Guhl
+    Content: Computer Science student at ETH Zurich
     
   socialIcons:
    - name: "email"
