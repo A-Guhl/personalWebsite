@@ -17,5 +17,18 @@ Vorlesungswebseite: https://ti.inf.ethz.ch/ew/courses/LA25/index.html
 
 Moodle: https://moodle-app2.let.ethz.ch/course/view.php?id=26165
 
-## Woche 1, 18.09.25
-[Notizen](/Uebung1.pdf)
+Viele Übungen mit Musterlösungen: Prüfungstrainer Lineare Algebra https://link.springer.com/book/10.1007/978-3-030-65886-1 (gratis Zugriff durch ETH Zürich)
+
+Gilbert Strang. Introduction to Linear Algebra (Sixth Edition). Wellesley-Cambridge Press, 2023. - Lecture Notes basieren auf diesem Buch, ist aber nicht unbedingt notwendig, die Lecture Notes reichen!
+
+## Woche 0, 18.09.25
+Organisatorische Infos, Vektoren, Linearkombinationen
+
+[Folien](https://n.ethz.ch/~anguhl/Uebung0.pdf)
+
+## Woche 1, 25.09.25
+Skalarprodukt, Euklidische Norm, Winkel, Lineare Unabhängigkeit, Span
+
+[Folien](https://n.ethz.ch/~anguhl/Uebung1.pdf)
+
+[Notizen in-class](https://n.ethz.ch/~anguhl/Assignment1_in_class.pdf)
