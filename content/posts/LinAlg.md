@@ -32,22 +32,35 @@ Es ist normal, dass Beweise schwierig sind. Es wird einfacher, je mehr Beweise m
 ## Woche 0, 18.09.25
 Organisatorische Infos, Vektoren, Linearkombinationen
 
-[Folien](https://n.ethz.ch/~anguhl/Uebung0.pdf)
+[Folien](https://annikaguhl.com/Uebung0.pdf)
 
 ## Woche 1, 25.09.25
 Skalarprodukt, Euklidische Norm, Winkel, Lineare Unabhängigkeit, Span
 
-[Folien](https://n.ethz.ch/~anguhl/Uebung1.pdf)
+[Folien](https://annikaguhl.com/Uebung1.pdf)
 
-[Notizen in-class](https://n.ethz.ch/~anguhl/Assignment1_in_class.pdf)
+[Notizen in-class](https://annikaguhl.com/Assignment1_in_class.pdf)
 
 ## Woche 2, 02.10.25
 Matrizen, Spaltenraum, Spaltenrang, Lineartransformationen
 
-[Folien](https://n.ethz.ch/~anguhl/Uebung2.pdf)
+[Folien](https://annikaguhl.com/Uebung2.pdf)ls
 
-[Notizen in-class exercise](https://n.ethz.ch/~anguhl/Assignment2_in_class.pdf)
+[Notizen in-class exercise](https://annikaguhl.com/Assignment2_in_class.pdf)
 
-[Notizen Serie 1 Aufgaben 2, 4, 5](https://n.ethz.ch/~anguhl/Assignment1_2_4_5.pdf)
+[Notizen Serie 1 Aufgaben 2, 4, 5](https://annikaguhl.com/Assignment1_2_4_5.pdf)
 
-[Hints für Serie 2](https://n.ethz.ch/~anguhl/Hints_Serie_2.pdf)
+[Hints für Serie 2](https://annikaguhl.com/Hints_Serie_2.pdf)
+
+## Woche 3, 09.10.25
+Lineartransformationen, Matrixmultiplikation
+
+[Folien](https://annikaguhl.com/Uebung3.pdf)
+
+[Beweise während der Übung](https://annikaguhl.com/Week3_Proofs.pdf)
+
+[Notizen in-class exercise](https://annikaguhl.com/Assignment3_in_class.pdf)
+
+[Notizen Serie 2 Aufgaben 2, 4, 6](https://annikaguhl.com/Assignment2_2_4_6.pdf)
+
+[Hints für Serie 2](https://annikaguhl.com/Hints_Serie_3.pdf)
