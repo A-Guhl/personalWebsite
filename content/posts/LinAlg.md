@@ -66,3 +66,14 @@ Lineartransformationen, Matrixmultiplikation
 [Hints für Serie 3](https://annikaguhl.com/Hints_Serie_3.pdf)
 
 ## Woche 4, 16.10.25
+CR-Dekomposition, Invertierbare Funktionen und Matrizen
+
+[Folien](https://annikaguhl.com/Uebung4.pdf)
+
+[Beweise während der Übung](https://annikaguhl.com/Week4_Proofs.pdf)
+
+[Notizen in-class exercise](https://annikaguhl.com/Assignment4_in_class.pdf)
+
+[Notizen Serie 3 Aufgaben 2, 3, 5](https://annikaguhl.com/Assignment3_2_3_5.pdf)
+
+[Hints für Serie 5](https://annikaguhl.com/Hints_Serie_4.pdf)
