@@ -64,3 +64,5 @@ Lineartransformationen, Matrixmultiplikation
 [Notizen Serie 2 Aufgaben 2, 4, 6](https://annikaguhl.com/Assignment2_2_4_6.pdf)
 
 [Hints für Serie 3](https://annikaguhl.com/Hints_Serie_3.pdf)
+
+## Woche 4, 16.10.25
